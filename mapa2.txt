@@ -1,0 +1,664 @@
+Amurri	43.03 	3.00 
+Laguardia	42.33 	2.35 
+Vitria	42.51 	2.41 
+Albact	39.00 	1.52 
+Alcaraz	38.40 	2.29 
+Almasa	38.52 	1.06 
+Casas Ibañz	39.17 	1.29 
+Chichilla	38.55 	1.43 
+Hlli	38.31 	1.42 
+Mura	39.02 	2.29 
+Villarrbld	39.16 	2.36 
+Yst	38.22 	2.19 
+Alcy	38.42 	0.28 
+Alicat	38.20 	0.29 
+Alta	38.36 	0.03 
+Bidrm	38.32 	0.08 
+Callsa d' Sarria	38.40 	0.08 
+Callsa d Sgura	38.01 	0.53 
+Cctaia	38.45 	0.26 
+Dia	38.50 	0.07 
+lda	38.29 	0.47 
+lch	38.15 	0.42 
+Jija	38.32 	0.30 
+Mvar	38.26 	0.51 
+vlda	38.23 	0.45 
+rihula	38.05 	0.57 
+Pg	38.51 	0.08 
+Trrvija	37.59 	0.40 
+Villajysa	38.30 	0.14 
+Villa	38.39 	0.52 
+Adra	36.45 	3.00 
+Almria	36.50 	2.28 
+Brja	36.51 	2.56 
+Cajayar	37.01 	2.44 
+Hurcal vra	37.23 	1.57 
+ijar	36.58 	2.12 
+Purcha	37.21 	2.21 
+Rqutas d Mar	36.46 	2.37 
+Srbas	37.06 	2.08 
+Vlz Rubi	37.39 	2.05 
+Vra	37.15 	1.53 
+Adrra la Vlla	42.30 	1.28 
+Allr	43.10 	5.38 
+Avils	43.33 	5.56 
+Blmt-Mirada	43.17 	6.12 
+Cagas d arca	43.10 	6.32 
+Cagas d is	43.21 	5.08 
+Castrpl	43.32 	7.00 
+Gij	43.32 	5.42 
+Grad	43.23 	6.07 
+Ifist	43.21 	5.21 
+Lagr	43.18 	5.41 
+Luarca	43.32 	6.32 
+Llas	43.25 	4.45 
+Mirs	43.15 	5.46 
+avia	43.33 	6.42 
+vid	43.22 	5.50 
+Pla d La	43.10 	5.49 
+Pla d Sir	43.24 	5.39 
+Pravia	43.30 	6.07 
+Ribadslla	43.28 	5.07 
+Ti	43.20 	6.25 
+Villavicisa	43.28 	5.27 
+Aras d Sa Pdr	40.12 	5.05 
+Arval	41.04 	4.43 
+Avila	40.39 	4.42 
+l Barc d Avila	40.21 	5.31 
+Cbrrs	40.27 	4.28 
+Pidrahita	40.28 	5.20 
+Alburqurqu	39.13 	6.59 
+Almdralj	38.41 	6.24 
+Azuaga	38.16 	5.41 
+Badajz	38.53 	6.58 
+Cabza dl Buy	38.43 	5.13 
+Castura	38.43 	5.32 
+D Bit	38.57 	5.52 
+Frgal d la Sirra	38.10 	6.39 
+Fut d Cats	38.14 	6.18 
+Hrrra dl Duqu	39.10 	5.03 
+Jrz d ls Caballrs	38.20 	6.46 
+Llra	38.14 	6.01 
+Mrida	38.55 	6.20 
+Mtij	38.54 	6.37 
+livza	38.41 	7.06 
+Publa d Alccr	38.59 	5.15 
+Villauva d la Sra	38.59 	5.48 
+Villauva dl Frs	38.23 	7.10 
+Zafra	38.26 	6.25 
+Ibiza	38.54 	1.26 
+Sa Ati	38.59 	1.19 
+Sa Jua	39.05 	1.31 
+Alcudia	39.51 	3.23 
+Adraitx	39.35 	2.25 
+Arta	39.42 	3.21 
+Flaitx	39.28 	3.10 
+Ica	39.43 	2.55 
+Lluchmajr	39.29 	2.53 
+Maacr	38.34 	3.13 
+Palma d Mallrca	39.35 	2.39 
+Sllr	39.46 	2.43 
+Ciudadla	40.00 	3.50 
+Mah	39.53 	4.16 
+Arys d Mar	41.35 	2.33 
+Badala	41.27 	2.15 
+Barcla	41.23 	2.11 
+Brga	42.06 	1.51 
+Callla	41.37 	2.40 
+Carda	41.56 	1.49 
+Crdayla dl Valls	41.30 	2.09 
+sparragura	41.33 	1.52 
+Gava	41.18 	2.00 
+Girlla	42.02 	1.53 
+Grallrs	41.37 	2.18 
+Hspitalt d Llbrgat	41.22 	2.08 
+Igualada	41.35 	1.37 
+Malgrat	41.39 	2.45 
+Mallu	42.00 	2.17 
+Marsa	41.43 	1.50 
+Martrll	41.28 	1.56 
+Matar	41.32 	2.27 
+Mllt dl Valls	41.33 	2.13 
+l Prat d Llbrgat	41.18 	2.03 
+Sabadll	41.33 	2.07 
+Sallt	41.50 	1.54 
+Sat Bi d Llbrgat	41.20 	2.03 
+Sat Cli	41.42 	2.30 
+Sat Fliu d Llbrgat	41.23 	2.03 
+Sat Saduri d'Aia	41.26 	1.47 
+Sata Clma d Gramat	41.27 	2.13 
+Sitgs	41.14 	1.48 
+Trrassa	41.34 	2.01 
+Vic	41.56 	2.15 
+Vilafraca dl Pds	41.22 	1.41 
+Vilava i la Gltru	41.13 	1.43 
+Arada d Dur	41.39 	3.42 
+Blrad	42.26 	3.12 
+Brivisca	42.33 	3.19 
+Burgs	42.20 	3.42 
+Castrjriz	42.17 	4.09 
+Lrma	42.02 	3.45 
+Mirada d br	42.41 	2.56 
+Salas d ls Ifats	42.03 	3.16 
+Sda	42.43 	3.45 
+Villadig	42.31 	4.01 
+Villarcay	42.56 	3.34 
+Alcatara	39.43 	6.53 
+Cacrs	39.28 	6.22 
+Cria	39.59 	6.33 
+Garrvillas	39.43 	6.33 
+Hrvas	40.16 	5.52 
+Hys	40.11 	6.43 
+Jaradilla d la Vra	40.08 	5.39 
+Lgrsa	39.20 	5.30 
+Mtachz	39.14 	6.09 
+avalmral d la Mata	39.53 	5.33 
+Plascia	40.02 	6.06 
+Trujill	39.28 	5.53 
+Valcia d Alcatara	39.25 	7.14 
+Zrita	39.17 	5.42 
+Alcala d ls Gazuls	36.28 	5.43 
+Algciras	36.11 	5.27 
+Arcs d la Frtra	36.45 	5.49 
+Cadiz	36.32 	6.18 
+Chiclaa d la Frtra	36.25 	6.09 
+Grazalma	36.46 	5.22 
+Jrz d la Frtra	36.41 	6.09 
+Mdia Sidia	36.28 	5.56 
+lvra	36.56 	5.16 
+Purt d Sata Maria	36.36 	6.13 
+Sa Frad	36.28 	6.11 
+Salucar d Barramda	36.46 	6.21 
+Sa Rqu	36.13 	5.23 
+Tarifa	36.01 	5.37 
+Vjr d la Frtra	36.15 	5.58 
+Purt dl Rsari	28.30 	13.53 
+Sa Sbastia d la Gmra	28.05 	17.08 
+Arucas	28.07 	15.31 
+Guia	28.08 	15.40 
+Maspalmas	27.46 	15.35 
+Las Palmas d Gra Caaria	28.06 	15.25 
+Sa Bartlm d Tirajaa	27.56 	15.35 
+Tld	27.58 	15.25 
+Valvrd	27.48 	17.54 
+Arrcif	29.00 	13.34 
+Sata Cruz d la Palma	28.41 	17.45 
+Ls Llas	28.40 	17.56 
+Graadilla d Aba	28.07 	16.35 
+Icd d ls Vis	28.22 	16.43 
+Purt d la Cruz	28.25 	16.33 
+Sata Cruz d Trif	28.28 	16.15 
+Albcassr	40.21 	0.01 
+Alcala d Chivrt	40.19 	0.13 
+Brriaa	39.53 	0.05 
+Castll d la Plaa	39.59 	0.02 
+Luca dl Cid	40.09 	0.17 
+Mrlla	40.37 	0.06 
+uls	39.51 	0.09 
+da	39.58 	0.15 
+rpsa	40.06 	0.09 
+Sa Mat	40.28 	0.11 
+Sgrb	39.51 	0.29 
+Villarral d ls Ifats	39.56 	0.06 
+Viarz	40.28 	0.29 
+Vivr	39.55 	0.36 
+Alcazar d Sa Jua	39.24 	3.12 
+Almad	38.47 	4.50 
+Almagr	38.53 	3.43 
+Almdvar dl Camp	38.42 	4.11 
+Ciudad Ral	38.59 	3.55 
+Daimil	39.05 	3.37 
+Malag	39.11 	3.52 
+Mazaars	39.00 	3.22 
+Pidrabua	39.02 	4.10 
+Purtlla	38.42 	4.07 
+Sata Cruz d Mudla	38.39 	3.28 
+Scullas	39.17 	2.47 
+Tmlls	39.10 	3.02 
+Valdpñas	38.46 	3.25 
+Villauva d ls Ifats	38.44 	3.01 
+Aguilar	37.31 	4.39 
+Baa	37.37 	4.20 
+Bujalac	37.54 	4.23 
+Cabra	37.28 	4.26 
+Castr dl Ri	37.41 	4.29 
+Crdba	37.53 	4.47 
+Fut-vjua	38.16 	5.25 
+Hijsa dl Duqu	38.30 	5.09 
+Luca	37.24 	4.29 
+Mtilla	37.36 	4.38 
+Mtr	38.01 	4.22 
+Palma dl Ri	37.42 	5.17 
+Pñarrya-Publuv	38.19 	5.16 
+Psadas	37.48 	5.07 
+Pzblac	38.23 	4.51 
+Prig d Crdba	37.26 	4.12 
+Put Gil	37.23 	4.46 
+La Rambla	37.37 	4.44 
+Rut	37.19 	4.23 
+Arzua	42.53 	8.11 
+Btazs	43.17 	8.13 
+Carball	43.13 	8.41 
+Crcubi	42.56 	9.12 
+Cruña	43.22 	8.23 
+l Frrl	43.29 	8.14 
+Murs	42.46 	9.05 
+grira	42.54 	8.45 
+ya	42.48 	8.53 
+rds	43.05 	8.24 
+Padr	42.44 	8.39 
+Ptdum	43.24 	8.10 
+Puts d Garcia Rdriguz	43.27 	7.51 
+Ribira	42.34 	8.59 
+Sata Maria d rtiguira	43.41 	7.50 
+Satiag d Cmpstla	42.52 	8.33 
+Blmt	39.34 	2.43 
+Cañt	40.03 	1.40 
+Cuca	40.04 	2.08 
+Hut	40.09 	2.43 
+Mtilla dl Palacar	39.34 	1.54 
+Sa Clmt	39.23 	2.24 
+Tarac	40.01 	3.01 
+Bañls	42.07 	2.46 
+Bsalu	42.12 	2.42 
+La Bisbal	41.58 	3.02 
+Blas	41.40 	2.48 
+Camprd	42.19 	2.22 
+Figurs	42.16 	2.58 
+Gira	41.59 	2.49 
+Llaga	42.21 	3.10 
+lt	42.11 	2.30 
+Palafrugll	41.55 	3.10 
+Palams	41.51 	3.08 
+Puigcrda	42.26 	1.56 
+Ripll	42.12 	2.12 
+Rss	42.16 	3.11 
+Sat Fliu d Guixls	41.47 	3.02 
+Sata Clma d Farés	41.52 	2.40 
+Sata Pau	42.09 	2.35 
+Sarriá d Tr	42.01 	2.49 
+Albuñl	36.48 	3.12 
+Alhama d Graada	37.00 	3.59 
+Almuñcar	36.44 	3.41 
+Baza	37.30 	2.46 
+Graada	37.11 	3.35 
+Guadix	37.18 	3.09 
+Huscar	37.48 	2.33 
+Izallz	37.24 	3.32 
+Lja	37.10 	4.10 
+Mtfri	37.20 	4.00 
+Mtril	36.44 	3.31 
+rgiva	36.54 	3.26 
+Pis Put	37.15 	3.45 
+Sata Fé	37.11 	3.43 
+Ugijar	36.58 	3.03 
+Atiza	41.12 	2.52 
+Brihuga	40.46 	2.52 
+Cifuts	40.47 	2.37 
+Cgllud	40.57 	3.05 
+Guadalajara	40.38 	3.10 
+Mlia d Aragó	40.51 	1.53 
+Pastraa	40.25 	2.55 
+Sacdó	40.29 	2.44 
+Siguza	41.04 	2.39 
+Azpitia	43.13 	2.14 
+Basai	43.03 	2.12 
+Dva	43.18 	2.21 
+ibar	43.11 	2.28 
+Hrai	43.18 	1.54 
+Irú	43.20 	1.47 
+Mdragó	43.05 	2.30 
+Rtria	43.17 	1.58 
+Sa Sbastiá	43.19 	1.59 
+Tlsa	43.08 	2.05 
+Vrgara	43.07 	2.25 
+Zarauz	43.17 	2.10 
+Araca	37.54 	6.33 
+Ayamt	37.13 	7.24 
+Hulva	37.16 	6.57 
+Jabug	37.55 	6.44 
+Mgur	37.17 	6.51 
+Palma dl Cdad	37.23 	6.35 
+Publa d Guzmá	37.37 	7.15 
+Valvrd dl Cami	37.35 	6.45 
+Aisa	42.25 	0.09 
+Ayrb	42.17 	0.42 
+Barbastr	42.02 	0.08 
+Babarr	42.07 	0.29 
+Basqu	42.37 	0.31 
+Biscas	42.38 	0.09 
+Bltaña	42.27 	0.04 
+Brt	42.36 	0.08 
+Cafrac	42.42 	0.31 
+Fraga	41.32 	0.21 
+Graus	42.11 	0.20 
+Husca	42.08 	0.24 
+Jaca	42.34 	0.33 
+Mzó	41.55 	0.11 
+Sabiñáig	42.31 	0.22 
+Sariña	41.47 	0.10 
+Tamarit d Litra	41.52 	0.25 
+Alcalá la Ral	37.28 	3.56 
+Alcaudt	37.35 	4.05 
+Adújar	38.02 	4.03 
+Baza	38.00 	3.28 
+Bailé	38.06 	3.46 
+Bas d Sgura	38.15 	2.53 
+La Carlia	38.17 	3.37 
+Cazrla	37.55 	3.00 
+Jaé	37.46 	3.47 
+Hulma	37.39 	3.28 
+Jódar	37.50 	3.21 
+Liars	38.06 	3.38 
+Macha Ral	37.47 	3.37 
+Marts	37.44 	3.58 
+Mgibar	37.58 	3.48 
+rcra	38.19 	2.39 
+Prcua	37.52 	4.11 
+Qusada	37.51 	3.05 
+Ubda	38.01 	3.23 
+Villacarrill	38.07 	3.05 
+Astrga	42.27 	6.09 
+La Bañza	42.17 	5.52 
+Cistira	42.48 	5.08 
+Ló	42.36 	5.34 
+Murias d Pards	42.52 	6.11 
+Pfrrada	42.33 	6.35 
+Riañ	42.59 	5.00 
+Sahagú	42.22 	5.02 
+Valcia d D Jua	42.17 	5.31 
+La Vcilla	42.51 	5.25 
+Villabli	42.56 	6.19 
+Villafraca dl Birz	42.37 	6.49 
+Alfar	42.10 	1.45 
+Ard	42.14 	2.05 
+Calahrra	42.18 	1.59 
+Crvra dl Ri Alhama	42.02 	1.58 
+Har	42.36 	2.48 
+Lgrñ	42.28 	2.27 
+ájra	42.25 	2.45 
+Sat Dmig d la Calzada	42.26 	2.57 
+Trrcilla  Camrs	42.15 	2.37 
+Bcrra	42.51 	7.10 
+Chatada	42.36 	7.46 
+Fsagrada	43.08 	7.04 
+Lug	43.01 	7.33 
+Mdñd	43.25 	7.23 
+Mfrt d Lms	42.31 	7.30 
+Quirga	42.28 	7.15 
+Ribad	43.32 	7.03 
+Sarria	42.47 	7.25 
+Villalba	43.17 	7.41 
+Vivr	43.39 	7.38 
+Agr	42.00 	0.45 
+Agramut	41.47 	1.06 
+Arts d Sgr	41.54 	1.03 
+Balagur	41.47 	0.48 
+Brgs Blaqus	41.31 	0.52 
+Crvra	41.41 	1.16 
+strri d'Au	42.38 	1.08 
+Llida	41.37 	0.38 
+Pbla d Sgur	42.15 	0.58 
+Pt d Surt	42.25 	0.45 
+La Su d'Urgll	42.22 	1.28 
+Slsa	42.00 	1.31 
+Srt	42.25 	1.08 
+Tárrga	41.39 	1.09 
+Trmp	42.10 	0.54 
+Villa	42.42 	0.48 
+Alcbdas	40.32 	3.38 
+Alcrcó	40.20 	3.50 
+Alcalá d Hars	40.28 	3.22 
+Arajuz	40.01 	3.38 
+Argada	40.19 	3.26 
+Cllad Villalba	40.36 	3.59 
+Clmar Vij	40.39 	3.47 
+Chichó	40.08 	3.26 
+Fulabrada	40.17 	3.48 
+Gtaf	40.18 	3.44 
+Lgaés	40.19 	3.46 
+Madrid	40.24 	3.41 
+Móstls	40.20 	3.52 
+avalcarr	40.17 	4.01 
+Pit	40.14 	3.43 
+Sa Lrz dl scrial	40.35 	4.05 
+Sa Marti d Valdiglsias	40.21 	4.24 
+Trrjó d Ardz	40.27 	3.29 
+Trrlagua	40.50 	3.35 
+Alra	36.49 	4.42 
+Atqura	37.01 	4.33 
+Archida	37.06 	4.23 
+Campills	37.03 	4.51 
+Ci	36.40 	4.46 
+Clmar	36.54 	4.20 
+stpa	36.25 	5.09 
+Fugirla	36.32 	4.38 
+Gauci	36.31 	5.19 
+Marblla	36.30 	4.54 
+Málaga	36.43 	4.25 
+rja	36.44 	3.53 
+Rda	36.45 	5.10 
+Trrmlis	36.38 	4.30 
+Trrx	36.46 	3.57 
+Vélz Málaga	36.47 	4.05 
+Aguilas	37.24 	1.35 
+Caravaca	38.08 	1.52 
+Cartaga	37.36 	0.59 
+Ciza	38.15 	1.25 
+Jumilla	38.29 	1.20 
+Lrca	37.41 	1.42 
+Mlia d Sgura	38.03 	1.13 
+Mula	38.03 	1.30 
+Murcia	37.59 	1.07 
+Sa Javir	37.49 	0.50 
+Ttaa	37.46 	1.30 
+Ycla	38.37 	1.07 
+Alsasua	42.54 	2.10 
+Aiz	42.46 	1.22 
+stlla	42.40 	2.02 
+Pampla	42.49 	1.38 
+Put d la Ria	42.40 	1.49 
+Rcal	42.50 	0.55 
+Rcsvalls	43.01 	1.20 
+Sagüsa	42.35 	1.17 
+Tafalla	42.30 	1.42 
+Tudla	42.04 	1.36 
+Allariz	42.11 	7.50 
+Bad	42.03 	7.58 
+l Barc d Valdrras	42.25 	6.59 
+Carballi	42.26 	8.05 
+Clava	42.09 	7.58 
+Guiz d Limia	42.03 	7.44 
+rs	42.20 	7.52 
+Publa d Trivs	42.20 	7.15 
+Ribadavia	42.17 	8.08 
+Vri	41.57 	7.27 
+Viaa dl Bll	42.11 	7.07 
+Aguilar dl Camp	42.48 	4.15 
+Astudill	42.12 	4.17 
+Baltaás	41.56 	4.15 
+Vta d Bañs	41.56 	4.30 
+Carrió d ls Cds	42.20 	4.36 
+Crvra dl Pisurga	42.51 	4.30 
+Frchilla	42.09 	4.50 
+Hrrra dl Pisurga	42.35 	4.20 
+Palcia	42.00 	4.32 
+Saldaña	42.32 	4.44 
+Caldas d Rys	42.36 	8.39 
+Cambads	42.31 	8.49 
+La Cañiza	42.13 	8.16 
+La strada	42.42 	8.29 
+La Guardia	41.56 	8.52 
+Lali	42.40 	8.07 
+Ptvdra	42.26 	8.39 
+Prriñ	42.12 	8.39 
+Putáras	42.10 	8.28 
+Rddla	42.17 	8.37 
+Sagj	42.24 	8.48 
+Tuy	42.03 	8.39 
+Vig	42.15 	8.43 
+Villagarcia d Arsa	42.36 	8.46 
+Alba d Trms	40.50 	5.30 
+Béjar	40.23 	5.46 
+Ciudad Rdrig	40.36 	6.32 
+Guijul	40.33 	5.40 
+Ldsma	41.05 	5.59 
+Lumbrals	40.56 	6.43 
+Pñarada d Bracamt	40.54 	5.13 
+Salamaca	40.57 	5.40 
+Squrs	40.31 	6.02 
+Vitigudi	41.01 	6.26 
+Cabuériga	43.14 	4.18 
+Castr Urdials	43.23 	3.13 
+Lard	43.26 	3.28 
+Pts	43.10 	4.37 
+Ramals d la Victria	43.15 	3.28 
+Risa	43.00 	4.08 
+Satadr	43.28 	3.48 
+Satña	43.27 	3.29 
+Sa Vict d la Barqura	43.24 	4.24 
+Trrlavga	43.20 	4.02 
+Villacarrid	43.14 	3.48 
+Cuéllar	41.23 	4.21 
+Riaza	41.18 	3.30 
+Sata Maria la Ral d iva	41.04 	4.24 
+Sgvia	40.57 	4.07 
+Spúlvda	41.18 	3.43 
+Villacasti	40.47 	4.25 
+Alcalá d Guadaira	37.20 	5.50 
+Alcalá dl Ri	37.31 	5.58 
+Almadé d la Plata	37.52 	6.04 
+Carma	37.28 	5.38 
+Cazalla d la Sirra	37.56 	5.45 
+Cria dl Ri	37.18 	6.04 
+Ds Hrmaas	37.17 	5.55 
+cija	37.32 	5.05 
+stpa	37.17 	4.52 
+Lbrija	36.55 	6.05 
+Lra dl Ri	37.39 	5.32 
+Marcha	37.20 	5.26 
+Mró d la Frtra	37.07 	5.28 
+sua	37.14 	5.07 
+Ls Palacis y Villafraca	37.10 	5.55 
+Salúcar La Mayr	37.24 	6.12 
+Svilla	37.23 	5.59 
+Utrra	37.11 	5.46 
+Agrda	41.49 	1.54 
+Almazá	41.29 	2.32 
+l Burg d sma	41.35 	3.04 
+Mdiacli	41.11 	2.26 
+Sria	41.46 	2.28 
+Ampsta	40.23 	0.34 
+Ascó	41.11 	0.34 
+Falst	41.09 	0.50 
+Gadsa	41.03 	0.26 
+Mtblac	41.23 	1.10 
+Mra d'br	41.06 	0.38 
+Prlló	40.52 	0.43 
+Rus	41.10 	1.06 
+Sata Bárbara	40.43 	0.30 
+Tarraga	41.07 	1.16 
+Trtsa	40.49 	0.31 
+Valls	41.17 	1.15 
+Vdrll	41.13 	1.32 
+Albarraci	40.25 	1.27 
+Alcañiz	41.02 	0.08 
+Aliaga	40.40 	0.42 
+Calamcha	40.55 	1.17 
+Calada	40.56 	0.14 
+Castllt	40.48 	0.20 
+Hijar	41.10 	0.27 
+Mtalbá	40.50 	0.48 
+Mral dl Camp	40.47 	1.20 
+Mra d Rubils	40.15 	0.45 
+Muisa	41.02 	0.49 
+Trul	40.20 	1.06 
+Trrijas	40.02 	0.57 
+Valdrrbls	40.52 	0.10 
+scala	40.09 	4.24 
+Illscas	40.08 	3.51 
+Madridjs	39.28 	3.33 
+avahrmsa	39.39 	4.28 
+caña	39.57 	3.30 
+rgaz	39.39 	3.53 
+l Put dl Arzbisp	39.48 	5.10 
+Quitaar d la rd	39.35 	3.03 
+Talavra d la Ria	39.58 	4.50 
+Tld	39.51 	4.01 
+Trrijs	39.59 	4.17 
+Albaida	38.51 	0.31 
+Albriqu	39.07 	0.31 
+Alcira	39.09 	0.26 
+Algmsi	39.12 	0.26 
+Ayra	39.03 	1.03 
+Bifayó	39.17 	0.25 
+Burjasst	39.30 	0.25 
+Carcaixt	39.08 	0.28 
+Carlt	39.14 	0.31 
+Catarrja	39.24 	0.24 
+Cfrts	39.13 	1.04 
+Cullra	39.10 	0.15 
+Chlva	39.45 	1.00 
+Chiva	39.28 	0.43 
+gura	38.59 	0.40 
+Gadia	38.58 	0.11 
+Liria	39.37 	0.36 
+Maiss	39.29 	0.28 
+Massamagrll	39.34 	0.20 
+liva	38.55 	0.07 
+tit	38.50 	0.36 
+Patra	39.30 	0.26 
+Rqua	39.30 	1.06 
+Sagut	39.41 	0.16 
+Silla	39.22 	0.24 
+Suca	39.12 	0.20 
+Trrt d l'Hrta	39.26 	0.28 
+Util	39.34 	1.12 
+Valcia	39.28 	0.22 
+Villar dl Arzbisp	39.44 	0.50 
+Xátiva	39.00 	0.31 
+Mdia d Risc	41.53 	5.03 
+Mdia dl Camp	41.18 	4.55 
+Mta dl Marqués	41.38 	5.11 
+ava dl Ry	41.20 	5.05 
+lmd	41.17 	4.41 
+Pñafil	41.36 	4.07 
+Trdsillas	41.30 	5.00 
+Valria la Bua	41.48 	4.32 
+Valladlid	41.39 	4.44 
+Villaló d Camps	42.06 	5.02 
+Baracald	43.20 	2.57 
+Brm	43.25 	2.44 
+Bilba	43.15 	2.55 
+Durag	43.13 	2.40 
+Gurica	43.19 	2.40 
+Marquia	43.18 	2.30 
+Valmasda	43.12 	3.14 
+Alcañics	41.42 	6.21 
+Bavt	42.00 	5.41 
+Brmill d Sayag	41.22 	6.07 
+Futsaúc	41.14 	5.30 
+Publa d Saabria	42.03 	6.39 
+Tr	41.31 	5.24 
+Villalpad	41.52 	5.25 
+Zamra	41.30 	5.45 
+La Almuia d Dña Gdia	41.29 	1.23 
+Ariza	41.19 	2.03 
+Atca	41.20 	1.48 
+Blchit	41.18 	0.45 
+Brja	41.49 	1.32 
+Bujaralz	41.29 	0.10 
+Calatayud	41.21 	1.38 
+Cariña	41.20 	1.13 
+Casp	41.14 	0.02 
+Darca	41.07 	1.25 
+ga d ls Caballrs	42.07 	1.09 
+scatró	41.17 	0.20 
+Pia d br	41.29 	0.32 
+Sádaba	42.17 	1.16 
+Ss dl Ry Católic	42.29 	1.12 
+Taraza	41.54 	1.43 
+Taust	41.56 	1.15 
+Zaragza	41.39 	0.52 
+Zura	41.52 	0.47 
+asp	41.13 	0.02 
